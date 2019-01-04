@@ -16,6 +16,10 @@ Following results were analyzed and plotted.
 * Frequently occuring words in the tweets. Results were shown using wordcloud
 * Sentiment Analysis - Polarity and Subjectivity of the tweet using Textblob
 * Preferred time of day to tweet.
+## Files Description
+[TwitterDataScrapping.ipynb](https://github.com/ElToro13/ML-Python/blob/master/DDM-TwitterSentimentAnalysis/TwitterDataScrapping.ipynb) - Jupyter Notebook used for data collection
+
+[DDM_NLP_SentimentAnalysis.ipynb](https://github.com/ElToro13/ML-Python/blob/master/DDM-TwitterSentimentAnalysis/DDM_NLP_SentimentAnalysis.ipynb) - Jupyter Notebook for Analysis and displaying of the Result
 
 ## Libraries Used
 
