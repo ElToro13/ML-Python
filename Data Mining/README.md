@@ -25,7 +25,6 @@ We use of PhantomJS which is a headless browser. It allows us to do all our task
 
 ## Files Description
 [shopper.py](https://github.com/ElToro13/ML-Python/blob/master/Data%20Mining/shopper.py) - Python Script to automatically add items to your cart
-
 [List](https://github.com/ElToro13/ML-Python/blob/master/Data%20Mining/list.txt) - List all the products you wish to buy here </br>
 [login.py](https://github.com/ElToro13/ML-Python/blob/master/Data%20Mining/login.py) - Account Credentials
 
