@@ -6,7 +6,7 @@ First we begin with importing the necessary libraries
 
 ### How to Use: </br>
 Clone this project. </br>
-Write all the products you want to buy in the text file. Enter your ebay account details in that text file. Once that is done, just run the ***shopper.py***. 
+Write all the products you want to buy in the text file. Enter your Amazon account details in that login.py file. Once that is done, just run the ***shopper.py***. 
 
 If you wish to see the the whole automation process you can replace the following line,
 ```python
