@@ -24,9 +24,10 @@ Put the phantomjs.exe file in the same folder as shopper.py
 We use of PhantomJS which is a headless browser. It allows us to do all our task without opening an actual browser. Everything runs in he background and we can print or log the process along the way. 
 
 ## Files Description
-[upwork1.py](https://github.com/ElToro13/ML-Python/blob/master/DDM-TwitterSentimentAnalysis/TwitterDataScrapping.ipynb) - Jupyter Notebook used for data collection
+[shopper.py](https://github.com/ElToro13/ML-Python/blob/master/Data%20Mining/shopper.py) - Python Script to automatically add items to your cart
 
-[ProductList](https://github.com/ElToro13/ML-Python/blob/master/DDM-TwitterSentimentAnalysis/DDM_NLP_SentimentAnalysis.ipynb) - Jupyter Notebook for Analysis and displaying of the Result
+[List](https://github.com/ElToro13/ML-Python/blob/master/Data%20Mining/list.txt) - List all the products you wish to buy here
+[login.py](https://github.com/ElToro13/ML-Python/blob/master/Data%20Mining/login.py) - Account Credentials
 
 ## Libraries Used
 
