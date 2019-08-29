@@ -15,7 +15,7 @@ Following results were analyzed and plotted.
 ## Files Description
 [Uber_Glassdoor.ipynb](https://github.com/ElToro13/ML-Python/blob/master/Topic%20Modelling/Uber_Glassdoor.ipynb) - Jupyter Notebook used for data collection
 
-[TopicModellingUber_DataMining.py](https://github.com/ElToro13/ML-Python/blob/master/Topic%20Modelling/TopicModellingUber_DataMining) - Python Script for Data Collection.
+[TopicModellingUber_DataMining.py](https://github.com/ElToro13/ML-Python/blob/master/Topic%20Modelling/TopicModellingUber_DataMining.py) - Python Script for Data Collection.
 
 [test8.csv](https://github.com/ElToro13/ML-Python/blob/master/Topic%20Modelling/test8.csv) - CSV file containing the reviews scrapped from Glassdoor
 
