@@ -13,7 +13,7 @@ Following results were analyzed and plotted.
 * Work Culture
 * Salary
 ## Files Description
-[Uber_Glassdoor.ipynb](https://github.com/ElToro13/ML-Python/blob/master/Topic%20Modelling/Uber_Glassdoor.ipynb) - Jupyter Notebook used for data collection
+[Uber_Glassdoor.ipynb](https://github.com/ElToro13/ML-Python/blob/master/Topic%20Modelling/Uber_Glassdoor.ipynb) - Jupyter Notebook used for Analysis
 
 [TopicModellingUber_DataMining.py](https://github.com/ElToro13/ML-Python/blob/master/Topic%20Modelling/TopicModellingUber_DataMining.py) - Python Script for Data Collection.
 
